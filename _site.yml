@@ -7,6 +7,12 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Research"
+      icon: fa-desktop
+      href: research.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher
+      href: teaching.html
     - text: "About"
       icon: fa-user 
       href: about.html
