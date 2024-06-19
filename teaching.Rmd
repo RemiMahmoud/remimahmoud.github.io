@@ -2,6 +2,14 @@
 title: "Teaching"
 ---
 
+I am an R enthusiast and happy to share my knowledge in various fields of statistics.
 
 
-<img src="images/mahmoud_photo.png" alt="mpe" width = "180px" align="right"> </img>
+You can find below two practice-based lessons that I created to teach `dplyr` and `ggplot2`. 
+
+* [Lesson on dplyr](https://github.com/RemiMahmoud/data_wrangling)
+* [Lesson on gpglot2](https://github.com/RemiMahmoud/ggplot2_lesson) 
+
+
+
+<!-- <img src="images/mahmoud_photo.png" alt="mpe" width = "180px" align="right"> </img> -->
