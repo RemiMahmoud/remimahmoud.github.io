@@ -3,15 +3,15 @@ title: "Research"
 ---
 
 
+* **Mahmoud R**, Casadebaig P, Hilgert N, Alletto L, Freschet T. G, De Mazancourt C, Gaudio N ; Species choice and N fertilization influence yield gains through complementarity and selection effects in cereal-legume intercrops. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-022-00754-y](https://doi.org/10.1007/s13593-022-00754-y)
+
+* **Mahmoud R**, Hilgert N, Casadebaig P, Gaudio N ; A workflow for processing global datasets: application to intercropping. Peer Community in Mathematical & Computational Biology.
+[10.24072/pcjournal.389](10.24072/pcjournal.389)
+
 
 * Gaudio N, Violle C, Gendre X, Fort F, **Mahmoud R**, Pelzer E, Médiène S, Hauggaard-Nielsen H, Bedoussac L, Bonnet C, Corre-Hellou G, Couëdel A, Hinsinger P, Jensen ES, Journet EP, Justes E, Kammoun B, Litrico I, Moutier N, Naudin C, Casadebaig P ; Interspecific interactions regulate plant reproductive allometry in cereal-legume intercropping systems. Journal of Applied Ecology 
 [https://doi.org/10.1111/1365-2664.13979](https://doi.org/10.1111/1365-2664.13979)
 
 * Meunier C, Alletto L, Bedoussac L, Bergez JE, Casadebaig P, Constantin J, Gaudio N, **Mahmoud R**, Aubertot JN, Celette F, Guinet M, Jeuffroy MH, Robin MH, Médiène S, Fontaine L, Nicolardot B, Pelzer E, Souchère V, Voisin AS, Rosiès B, Casagrande M, Martin G ; A modelling chain combining soft and hard models to assess a bundle of ecosystem services provided by a diversity of cereal-legume intercrops. European Journal of Agronomy [https://doi.org/10.1016/j.eja.2021.126412](https://doi.org/10.1016/j.eja.2021.126412)
-
-* **Mahmoud R**, Casadebaig P, Hilgert N, Alletto L, Freschet T. G, De Mazancourt C, Gaudio N ; Species choice and N fertilization influence yield gains through complementarity and selection effects in cereal-legume intercrops. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-022-00754-y](https://doi.org/10.1007/s13593-022-00754-y)
-
-* **Mahmoud R**, Hilgert N, Casadebaig P, Gaudio N ; A workflow for processing global datasets: application to intercropping. Peer Community in Mathematical & Computational Biology.
-[10.24072/pcjournal.389](10.24072/pcjournal.389)
 
 <!-- <img src="images/mahmoud_photo.png" alt="mpe" width = "180px" align="right"> </img> -->
