@@ -9,7 +9,7 @@ You can find below two practice-based lessons that I created to teach `dplyr` an
 
 * [Lesson on dplyr](https://github.com/RemiMahmoud/data_wrangling)
 * [Lesson on gpglot2](https://github.com/RemiMahmoud/ggplot2_lesson) 
-
+* [Lesson on basic statistics (in FR)](https://demarche-stat-lesson.netlify.app/#/title-slide) 
 
 
 <!-- <img src="images/mahmoud_photo.png" alt="mpe" width = "180px" align="right"> </img> -->
