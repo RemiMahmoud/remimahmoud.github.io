@@ -2,7 +2,8 @@
 title: "Remi MAHMOUD"
 ---
 
-I am a young statistician (PhD) currently engaged in a post-doctoral position at [INRAE (ECOSYS)](https://ecosys.versailles-saclay.hub.inrae.fr/). I am an R enthusiast and interested in applying multiple and adapted statistical techniques to biological systems.
+I am a young statistician (PhD) currently engaged in a contractual assistant teacher position at 
+the [French Higher Education Institution in Agriculture, Food, Horticultural and Landscape Sciences](https://www.institut-agro-rennes-angers.fr/). I am an R enthusiast and interested in applying multiple and adapted statistical techniques to biological systems.
 
 
 You can find my publications in the [research section](https://remimahmoud.github.io/rmahmoud.github.io/research.html) of this website.

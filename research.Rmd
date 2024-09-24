@@ -3,6 +3,12 @@ title: "Research"
 ---
 
 
+
+* **Mahmoud R**, Gaudio N, Gendre X, Hilgert N, Casadebaig P, ; Differences in growth features between species are driving cereal-legume intercrop yield: a statistical learning approach based on aggregated dataset. *Preprint* [https://doi.org/10.1101/2024.09.17.613461](https://doi.org/10.1101/2024.09.17.613461)
+
+
+ 
+
 * **Mahmoud R**, Casadebaig P, Hilgert N, Alletto L, Freschet T. G, De Mazancourt C, Gaudio N ; Species choice and N fertilization influence yield gains through complementarity and selection effects in cereal-legume intercrops. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-022-00754-y](https://doi.org/10.1007/s13593-022-00754-y)
 
 * **Mahmoud R**, Hilgert N, Casadebaig P, Gaudio N ; A workflow for processing global datasets: application to intercropping. Peer Community in Mathematical & Computational Biology.
