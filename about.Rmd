@@ -3,6 +3,9 @@ title: "About me"
 ---
 
 
-As a young statistician with a keen interest in applying statistical methods to biological systems, I am currently engaged in a post-doctoral position at [INRAE (ECOSYS)](https://ecosys.versailles-saclay.hub.inrae.fr/). My work involves collaborating with microbiologists from INRAE MYCSA to investigate the response of various Fusarium species to temperature and water availability. This research is crucial due to the fungi's role in causing Fusarium Head Blight, a significant threat to food safety.
+As a young statistician with a keen interest in applying statistical methods to biological systems, I am currently engaged  in a contractual assistant teacher position at 
+the [French Higher Education Institution in Agriculture, Food, Horticultural and Landscape Sciences](https://www.institut-agro-rennes-angers.fr/). I continue to work on the topic on which I was involved as a post-doctorate researcher at [INRAE (ECOSYS)](https://ecosys.versailles-saclay.hub.inrae.fr/).
 
-Prior to my current position, I completed my PhD (downloadable [here](https://theses.hal.science/tel-04231881v1/document)) at [INRAE (AGIR)](https://agir.toulouse.hub.inrae.fr/edito-umr-agir) in Toulouse. During my doctoral studies, which focused on modeling the performance of cereal-legume intercrops (crops where two species grow together to reduce the use of inputs).
+This work involved collaborating with microbiologists from INRAE MYCSA to investigate the response of various Fusarium species to temperature and water availability. This research is crucial due to the fungi's role in causing Fusarium Head Blight, a significant threat to food safety.
+
+Prior to these positions, I completed my PhD (downloadable [here](https://theses.hal.science/tel-04231881v1/document)) at [INRAE (AGIR)](https://agir.toulouse.hub.inrae.fr/edito-umr-agir) in Toulouse. My doctoral studies focused on modeling the performance of cereal-legume intercrops (crops where two species grow together to reduce the use of inputs).

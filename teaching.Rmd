@@ -8,8 +8,11 @@ I am an R enthusiast and happy to share my knowledge in various fields of statis
 You can find below two practice-based lessons that I created to teach `dplyr` and `ggplot2`. 
 
 * [Lesson on dplyr](https://github.com/RemiMahmoud/data_wrangling)
-* [Lesson on gpglot2](https://github.com/RemiMahmoud/ggplot2_lesson) 
+* [Lesson on ggplot2](https://github.com/RemiMahmoud/ggplot2_lesson) 
+
+Two lessons I teach at the [French Higher Education Institution in Agriculture, Food, Horticultural and Landscape Sciences](https://www.institut-agro-rennes-angers.fr/).
 * [Lesson on basic statistics (in FR)](https://demarche-stat-lesson.netlify.app/#/title-slide) 
+* [Lesson on data visualization](https://data-visualisation-lesson.netlify.app/) (more concept-based (How (not) / Why / What) than technical (How to)).
 
 
 <!-- <img src="images/mahmoud_photo.png" alt="mpe" width = "180px" align="right"> </img> -->
