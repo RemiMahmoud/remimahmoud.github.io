@@ -1,0 +1,12 @@
+---
+title: "Talks"
+---
+
+
+Here are some talks I had the chance to present.
+
+
+
+* Statistics days 2025 in Marseille: Signal identification by local Functional ANOVA:
+<a href="mahmoud_JDS_2025.html" class="download" title="View slides as HTML" target="_blank">View slides</a>
+ 

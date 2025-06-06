@@ -9,7 +9,11 @@ navbar:
       href: index.html
     - text: "Research"
       icon: fa-desktop
-      href: research.html
+      menu:
+        - text: "Papers"
+          href: papers.html
+        - text: "Talks"
+          href: talks.html
     - text: "Teaching"
       icon: fa-chalkboard-teacher
       href: teaching.html
