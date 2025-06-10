@@ -6,7 +6,7 @@ I am a young statistician (PhD) currently engaged in a contractual assistant tea
 the [French Higher Education Institution in Agriculture, Food, Horticultural and Landscape Sciences](https://www.institut-agro-rennes-angers.fr/). I am an R enthusiast and interested in applying multiple and adapted statistical techniques to biological systems.
 
 
-You can find my publications in the [research section](https://remimahmoud.github.io/research.html) of this website.
+You can find my publications in the research section ([papers](https://remimahmoud.github.io/papers.html) / [talks](https://remimahmoud.github.io/talks.html)) of this website.
 
 
 Feel free to contact me for more info !
