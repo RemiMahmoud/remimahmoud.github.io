@@ -29,7 +29,7 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:remi.mahmoud@inrae.fr                    # CHANGE HERE 
+      href: mailto:remi.mahmoud@institut-agro.fr                   # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/RemiMahmoud       # CHANGE HERE 

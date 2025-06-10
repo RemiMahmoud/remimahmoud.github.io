@@ -1,6 +1,6 @@
 # Remi Mahmoud's website
 
-The website is available at this address: [https://remimahmoud.github.io/rmahmoud.github.io/](https://remimahmoud.github.io/rmahmoud.github.io/).
+The website is available at this address: [https://remimahmoud.github.io](https://remimahmoud.github.io/).
 
 The template (and tutorial) for creating this website can be found [here](https://github.com/privefl/rmarkdown-website-template) (thanks to Florian Privé).
 
