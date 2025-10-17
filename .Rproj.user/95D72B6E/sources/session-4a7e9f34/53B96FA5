@@ -3,7 +3,7 @@
     "path": "C:/Users/mahmoud/AOBox/remimahmoud.github.io/cv.Rmd",
     "project_path": "cv.Rmd",
     "type": "r_markdown",
-    "hash": "736041308",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1760681034067.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,24",
+        "cursorPosition": "5,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1760681052,
+    "lastKnownWriteTime": 1760681818,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760681052930,
+    "last_content_update": 1760681818818,
     "read_only": false,
     "read_only_alternatives": []
 }
