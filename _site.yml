@@ -1,0 +1,39 @@
+name: "Remi MAHMOUD"                                # CHANGE HERE 
+output_dir: "docs"
+navbar:
+  title: "Remi MAHMOUD"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Research"
+      icon: fa-desktop
+      menu:
+        - text: "Papers"
+          href: papers.html
+        - text: "Talks"
+          href: talks.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher
+      href: teaching.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+    # - text: "Blog"
+    #   icon: fa-rss
+    #   href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:remi.mahmoud@institut-agro.fr                   # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/RemiMahmoud       # CHANGE HERE 
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
